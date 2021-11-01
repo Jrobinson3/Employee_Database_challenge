@@ -2,7 +2,7 @@
 ## Deliverable 3: A written report on the employee database analysis (README.md)
 
 1. Overview of the analysis: Explain the purpose of this analysis.	
-  a)	The purpose of this analysis is to demonstrate of the knowledge of SQL queries.  Creating Retirement Titles table to demonstrate the 'join'funcrtion and 'filter' birth date that learned in the class. 
+  a)	The purpose of this analysis is to know how many employees will be retiring in a few years. What positions will be retiring most and how to prepare for the    		future.  
   b)	Identifying the number of employees by title will prepare Pewlett Hackard Emplyees for the future plan to hire more senior level of employees. 
 2. Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.	
  1)	There will be retirement in the seven unique titles in the retirement titles table.  
