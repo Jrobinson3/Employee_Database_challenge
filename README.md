@@ -9,6 +9,7 @@
 2)	Highest number of senior engineer will be retiring which compares to the other titles. 
 3)	Lowest number of manager will be retiring in comparing with other positions.
 4)	Total number of 90398 will be retiring which counted by the employee number.  
+5) ![image](Retiring Titles.png)
 	
 3. Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."	
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?	
